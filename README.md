@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true&theme=dracula" />
+    <img width="55%" align="right" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -37,10 +37,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg">
-   <br />
-   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
    <br />
 </p>
