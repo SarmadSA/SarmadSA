@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="50%" align="center" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true" />
+    <img width="50%" align="middle" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
