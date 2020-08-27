@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: Send me an email
+- 📫 How to reach me: send me an email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am better than you in Java.
+- ⚡ Fun fact: I am better than you in Java :)
