@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🎓 I studied Engineering - Computer Science at Norwegian University of Science and Technology
-- 🌱 I’m currently learning Visual intalligance, Artificial Intelligence and High Performance Computing
+- 🌱 I’m currently learning Visual computing Visual Intelligence, Artificial Intelligence and High Performance Computing
 - 💬 Ask me about anything
 - 📫 How to reach me: sarmad@virusoftware.com
 - 😄 Pronouns: ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true" />
+    <img width="50%" align="center" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
