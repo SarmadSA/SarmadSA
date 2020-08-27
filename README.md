@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am better than you in Java :)
 
-<img width="55%" align="right" alt="GOXR3PLUS github stats" src="https://github-readme-stats.vercel.app/api?username=SarmadSA&show_icons=true&theme=dracula" />
+<img width="100%" align="right" alt="SarmadSA's github stats" src="https://github-readme-stats.vercel.app/api?username=SarmadSA&show_icons=true" />
