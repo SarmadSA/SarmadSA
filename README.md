@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am better than you in Java :)
 
 <img width="50%" align="left" alt="SarmadSA's github stats" src="https://github-readme-stats.vercel.app/api?username=SarmadSA&show_icons=true" />
+   
+   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
+   <br />
