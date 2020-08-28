@@ -18,16 +18,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <br />
 <p>
-    <img width="100%" align="right" alt="Sarmad github stats" src="https://github-readme-stats.vercel.app/api?username=SarmadSA&show_icons=true" />
+    <img width="50%" align="right" alt="Sarmad github stats" src="https://github-readme-stats.vercel.app/api?username=SarmadSA&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  
    <br />
+  <div>
    <img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
    <img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
    <img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
    <img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+   <div/>
    <br />
 </p>
