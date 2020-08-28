@@ -27,10 +27,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
    <br />
   <div>
-   <img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-   <img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-   <img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-   <img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
    <div/>
    <br />
 </p>
