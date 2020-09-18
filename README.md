@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🎓 I studied Engineering - Computer Science at Norwegian University of Science and Technology
-- 🌱 I’m currently learning Visual computing Visual Intelligence, Artificial Intelligence and High Performance Computing
+- 🌱 I’m currently learning Visual computing, Visual Intelligence, Artificial Intelligence and High Performance Computing
 - 💬 Ask me about anything
 - 📫 How to reach me: sarmad@virusoftware.com
 - 😄 Pronouns: ...
