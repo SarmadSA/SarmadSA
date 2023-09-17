@@ -37,8 +37,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ![snake svg](https://github.com/SarmadSA/SarmadSA/blob/output/github-contribution-grid-snake.svg)
 
-![snake svg](https://github.com/MustafaCQN/MustafaCQN/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
