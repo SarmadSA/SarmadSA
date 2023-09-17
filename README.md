@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Visual computing, Visual Intelligence, Artificial Intelligence and High Performance Computing
 - 💬 Ask me about anything
 - 📫 How to reach me: sarmad@virusoftware.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am better than you in Java :)
 
 
 <!-- Your github readme stats
@@ -34,8 +32,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <div/>
    <br />
 </p>
-
-![snake svg](https://github.com/SarmadSA/SarmadSA/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
