@@ -36,3 +36,20 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 ![snake svg](https://github.com/SarmadSA/SarmadSA/blob/output/github-contribution-grid-snake.svg)
+
+![snake svg](https://github.com/MustafaCQN/MustafaCQN/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
